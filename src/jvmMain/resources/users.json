@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "profilePictureNumber": 1,
+    "name": "John Doe",
+    "description": "I am a software engineer with 5 years of experience.",
+    "profilePictureURL": null
+  },
+  {
+    "id":  1,
+    "profilePictureNumber": 2,
+    "name": "Jane Smith",
+    "description": "I am a graphic designer with a passion for typography.",
+    "profilePictureURL": null
+  },
+  {
+    "id":  2,
+    "profilePictureNumber": 3,
+    "name": "Mark Johnson",
+    "description": "I am a freelance writer specializing in technology.",
+    "profilePictureURL": null
+  },
+  {
+    "id":  3,
+    "profilePictureNumber": 2,
+    "name": "Sara Lee",
+    "description": "I am a fitness instructor and nutrition coach.",
+    "profilePictureURL": null
+  },
+  {
+    "id":  4,
+    "profilePictureNumber": 4,
+    "name": "David Chen",
+    "description": "I am a business analyst with a background in finance.",
+    "profilePictureURL": null
+  },
+  {
+    "id":  5,
+    "profilePictureNumber": 5,
+    "name": "Amy Nguyen",
+    "description": "I am a web developer and UX/UI designer.",
+    "profilePictureURL": null
+  },
+  {
+    "id":  6,
+    "profilePictureNumber": 6,
+    "name": "Mike Patel",
+    "description": "I am a digital marketer with expertise in SEO and PPC.",
+    "profilePictureURL": null
+  },
+  {
+    "id":  7,
+    "profilePictureNumber": 7,
+    "name": "Lisa Kim",
+    "description": "I am a high school English teacher and avid reader.",
+    "profilePictureURL": null
+  },
+  {
+    "id":  8,
+    "profilePictureNumber": 8,
+    "name": "Chris Jones",
+    "description": "I am a software developer and open source contributor.",
+    "profilePictureURL": null
+  },
+  {
+    "id":  9,
+    "profilePictureNumber": 9,
+    "name": "Karen Davis",
+    "description": "I am a freelance photographer specializing in portraits and events.",
+    "profilePictureURL": null
+  }
+]
